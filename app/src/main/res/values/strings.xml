@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomClock</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="error_not_a_number">Please enter a number for the scale</string>
+    <string name="error_non_positive_scale">Scale must be equal to or greater than one</string>
+    <string name="time">Time</string>
+    <string name="scale">Scale</string>
+</resources>
